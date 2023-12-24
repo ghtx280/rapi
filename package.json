@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "rapii",
+  "version": "1.0.0",
+  "description": "simple fetch lib",
+  "main": "index.js",
+  "keywords": [
+    "fetch"
+  ],
+  "author": "ghtx280",
+  "license": "ISC"
+}
